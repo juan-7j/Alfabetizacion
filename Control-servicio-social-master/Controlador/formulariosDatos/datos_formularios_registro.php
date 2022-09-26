@@ -36,7 +36,7 @@ if (isset($_POST['Crear_estudiantes']) or isset($_POST['Crear_directivos']) or i
 
             #CONSULTA PARA GUARDAR LOS DATOS
             $consultaEstudiantes = "INSERT INTO ESTUDIANTES (IDENTIDAD, NOMBRES, APELLIDOS, EDAD, FECHA_REGISTRO, CELULAR, CORREO, ROL, GRADO, NOMBRE_TECNICA, CONTRA, TYC)
-             VALUES ('$identidad', '$nombres', '$apellidos', $edad, '$fecha_actual', '$celular', '$correo', '$rol', '$grado', '$nombre_tecnica', '$contra_segura', '$tyc');";
+            VALUES ('$identidad', '$nombres', '$apellidos', $edad, '$fecha_actual', '$celular', '$correo', '$rol', '$grado', '$nombre_tecnica', '$contra_segura', '$tyc');";
 
             $return = mysqli_query($conn, $consultaEstudiantes);
 

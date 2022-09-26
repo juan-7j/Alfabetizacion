@@ -11,7 +11,7 @@ session_start();
 
 <head>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="../includes/recursos/faviivon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../includes/recursos/logicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../../Vista/custome_bootstrap/style.css">
     <title>Inicio de sesión</title>
     <meta charset="UTF-8">
@@ -27,10 +27,10 @@ session_start();
                 <div class="row">
 
                     <div class="col-auto text-start d-inline">
-                        <img src="../includes/recursos/img-cabecera.png" class="i" width="auto" height="80" alt="logo del sistema" title="Inicio">
+                        <img src="../includes/recursos/logo.png" class="i" width="auto" height="80" alt="logo del sistema" title="Inicio">
                     </div>
                     <h4 class="col-auto d-flex  align-items-center justify-content-start p-0 m-0 text-capitalize">
-                        <strong class="d-block"><em> control de servicio social.</em></strong>
+                        <strong class="d-block"><em>betizhe</em></strong>
                     </h4>
                 </div>
             </a>

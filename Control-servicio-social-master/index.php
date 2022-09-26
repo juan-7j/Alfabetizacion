@@ -8,7 +8,7 @@ session_start();
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/default.min.css"/>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="Controlador/includes/recursos/faviivon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="Controlador/includes/recursos/logicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="Vista/custome_bootstrap/style.css">
     <title>α-Betizhe</title>
     <meta charset="UTF-8">
@@ -24,10 +24,10 @@ session_start();
             <div class="row">
 
                 <div class="col-auto text-start d-inline">
-                    <img src="Controlador/includes/recursos/img-cabecera.png" class="i" width="auto" height="80" alt="logo sistema">
+                    <img src="Controlador/includes/recursos/logo.png" class="i" width="auto" height="80" alt="logo sistema">
                 </div>
                 <h4 class="col-auto d-flex  align-items-center justify-content-start p-0 m-0 text-capitalize">
-                    <strong class="d-block"><em>control de servicio social.</em></strong>
+                    <strong class="d-block"><em>betizhe</em></strong>
                 </h4>
             </div>
         </a>
@@ -106,7 +106,7 @@ session_start();
                                             </div>
                                             <div class="row mt-3">
                                                 <div class="col-12 small">
-                                                    <h6 class="small b"> La plataforma es unicamente para el servicio social de los grados <b> Noveno, Décimo y Once.</b></h6>
+                                                    <h6 class="small b"> La plataforma es unicamente para el servicio social de los grados <b> Décimo y Once.</b></h6>
                                                 </div>
                                             </div>
                                         </div>

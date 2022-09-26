@@ -11,7 +11,7 @@ if (isset($_SESSION['id_adm'])) {
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/default.min.css" />
         <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" />
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-        <link rel="shortcut icon" href="../../includes/recursos/faviivon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="../../includes/recursos/logicon.ico" type="image/x-icon">
         <link rel="stylesheet" href="../../../Vista/custome_bootstrap/style.css">
         <title>Usuarios de plataforma</title>
         <meta charset="UTF-8">
@@ -26,10 +26,10 @@ if (isset($_SESSION['id_adm'])) {
                 <a class="navbar-brand" href="info_general.php">
                     <div class="row ">
                         <div class="col-auto text-start d-inline">
-                            <img src="../../../Controlador/includes/recursos/img-cabecera.png" class="i" width="auto" height="80" alt="logo sistema">
+                            <img src="../../../Controlador/includes/recursos/logo.png" class="i" width="auto" height="80" alt="logo sistema">
                         </div>
                         <h4 class="col-auto d-flex  align-items-center justify-content-start p-0 m-0 text-capitalize">
-                            <strong class="d-none d-sm-block"><em> control de servicio social.</em></strong>
+                            <strong class="d-none d-sm-block"><em> betizhe</em></strong>
                             <strong class="d-block d-sm-none"><em> Control de S.</em></strong>
                         </h4>
                     </div>

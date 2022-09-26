@@ -6,7 +6,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="../includes/recursos/faviivon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../includes/recursos/logicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../../Vista/custome_bootstrap/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://fonts.googleapis.com/css2?family=Comforter&family=Supermercado+One&display=swap" rel="stylesheet">
@@ -25,10 +25,10 @@
             <div class="row">
 
                 <div class="col-auto text-start d-inline">
-                    <img src="../includes/recursos/img-cabecera.png" class="i" width="auto" height="80" alt="logo sistema">
+                    <img src="../includes/recursos/logo.png" class="i" width="auto" height="80" alt="logo sistema">
                 </div>
                 <h4 class="col-auto d-flex  align-items-center justify-content-start p-0 m-0 text-capitalize">
-                    <strong class="d-block"><em> control de servicio social.</em></strong>
+                    <strong class="d-block"><em> betizhe</em></strong>
                 </h4>
             </div>
         </a>

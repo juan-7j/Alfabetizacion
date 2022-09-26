@@ -10,7 +10,7 @@ session_start();
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="../includes/recursos/faviivon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../includes/recursos/logicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../../Vista/custome_bootstrap/style.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Comforter&family=Supermercado+One&display=swap" rel="stylesheet">
@@ -35,10 +35,10 @@ session_start();
             <div class="row">
 
                 <div class="col-auto text-start d-inline">
-                    <img src="../includes/recursos/img-cabecera.png" class="i" width="auto" height="80" alt="logo sistema">
+                    <img src="../includes/recursos/logo.png" class="i" width="auto" height="80" alt="logo sistema">
                 </div>
                 <h4 class="col-auto d-flex  align-items-center justify-content-start p-0 m-0 text-capitalize">
-                    <strong class="d-block"><em> control de servicio social.</em></strong>
+                    <strong class="d-block"><em> betizhe</em></strong>
                 </h4>
             </div>
         </a>
